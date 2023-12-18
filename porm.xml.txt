@@ -1,0 +1,24 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>com.mycompany.app</groupId>
+  <artifactId>my-app</artifactId>
+  <version>1</version>
+</project>
+
+<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>com.hash.app</groupId>
+  <artifactId>my-app</artifactId>
+  <version>1</version>
+</project>
+
+
+<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>com.jack.app</groupId>
+  <artifactId>my-app</artifactId>
+  <version>1</version>
+</project>

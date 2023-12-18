@@ -1,3 +1,8 @@
 hello iam hashim
 
+<<<<<<< HEAD
 data
+=======
+
+hashim how are bro
+>>>>>>> 06505d82090491168ea9d22aaba1f9d83f6f14a4
